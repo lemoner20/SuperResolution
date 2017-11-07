@@ -8,7 +8,7 @@ paper: http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepresolution.pdf
 
        http://ieeexplore.ieee.org/document/7115171/?arnumber=7115171
        
-![image](https://github.com/lemoner20/SuperResolution/raw/SRCNN-matlab/train.png)
+![image](https://github.com/lemoner20/SuperResolution/raw/master/SRCNN-matlab/train.png)
 
 ![image](https://raw.githubusercontent.com/lemoner20/SuperResolution/SRCNN-matlab/result1.png)
 ![image](https://raw.githubusercontent.com/lemoner20/SuperResolution/SRCNN-matlab/result2.png)
