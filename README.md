@@ -2,3 +2,5 @@
 Image Super Resolution
 
 SRCNN
+
+LapSRN
